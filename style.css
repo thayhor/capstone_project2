@@ -1,0 +1,29 @@
+.justify-content-lg-center {
+    justify-content: right!important;
+}
+
+.profile-img {
+    height: 250px;
+    border-radius: 50%;
+  }
+
+#About, #Contact {
+    background-color: #EEF5FF;
+}
+
+#Skills {
+    background-color: #B4D4FF;
+}
+
+#Projects {
+    background-color: #86B6F6;
+}
+
+#Hobbies {
+    background-color: #EEF5FF;
+}
+
+.img-thumbnail {
+    height: 250px;
+    width: 200px;
+}
